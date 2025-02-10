@@ -7,8 +7,6 @@ I'm **Devi Suhitha Chundru**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devisuhitha/)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeviSuhithaChundru?tab=repositories)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?&style=for-the-badge)](https://devisuhithachundru.github.io/devisuhithachundru.portfolio/)  
 
-## 🌐 Connect with Me
-📫 Let’s connect! Feel free to explore my work and reach out.
 ## 💼 About Me
 I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engineering, and Cloud Services. My journey revolves around data-driven problem-solving, developing scalable data pipelines, and leveraging cloud technologies to optimize workflows.
 
@@ -68,7 +66,8 @@ I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engi
 
 **📝 Thanks for stopping by!** I’m always open to collaboration, networking, and new opportunities. Feel free to connect with me! 🚀
 
-## Links & Contact:
+## 🌐 Connect with Me
+📫 Let’s connect! Feel free to explore my work and reach out.
 - **GitHub:** https://github.com/DeviSuhithaChundru?tab=repositories
 - **Portfolio:** https://devisuhithachundru.github.io/devisuhithachundru.portfolio/
 - **LinkedIn:** https://www.linkedin.com/in/devisuhitha/
