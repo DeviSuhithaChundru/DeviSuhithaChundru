@@ -69,9 +69,9 @@ I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engi
 **📝 Thanks for stopping by!** I’m always open to collaboration, networking, and new opportunities. Feel free to connect with me! 🚀
 
 ## Links & Contact:
-**GitHub:** https://github.com/DeviSuhithaChundru?tab=repositories
-**Portfolio:** https://devisuhithachundru.github.io/devisuhithachundru.portfolio/
-**LinkedIn:** https://www.linkedin.com/in/devisuhitha/
-**Email:** cdevisuhitha@gmail.com
-**Phone:** 484-588-9904
+- **GitHub:** https://github.com/DeviSuhithaChundru?tab=repositories
+- **Portfolio:** https://devisuhithachundru.github.io/devisuhithachundru.portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/devisuhitha/
+- **Email:** cdevisuhitha@gmail.com
+- **Phone:** 484-588-9904
 
