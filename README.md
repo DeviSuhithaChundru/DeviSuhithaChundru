@@ -18,9 +18,9 @@ I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engi
 - Build interactive dashboards for reporting and business intelligence
 - Automate processes using CI/CD pipelines and cloud functions
 
-🔹 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/devisuhitha/)  
-🔹 **GitHub:** [Your GitHub Profile](https://github.com/DeviSuhithaChundru?tab=repositories)  
-🔹 **Portfolio:** [Your Portfolio](https://devisuhithachundru.github.io/devisuhithachundru.portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devisuhitha/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeviSuhithaChundru?tab=repositories)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?&style=for-the-badge)](https://devisuhithachundru.github.io/devisuhithachundru.portfolio/)  
 
 ## 🛠 Technical Skills
 ## 📊 Data Analytics & Visualization
