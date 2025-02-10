@@ -59,9 +59,9 @@ I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engi
 🎯 Google Data Analytics Professional Certificate
 
 ## 📌 What’s Next?
-🚀 Currently learning Azure Databricks, Apache Kafka, and Power Platform
-🔍 Exploring Data Governance & Privacy for better data management
-💡 Sharing my knowledge on LinkedIn through blog posts and case studies
+- 🚀 Currently learning Azure Databricks, Apache Kafka, and Power Platform
+- 🔍 Exploring Data Governance & Privacy for better data management
+- 💡 Sharing my knowledge on LinkedIn through blog posts and case studies
 
 **📝 Thanks for stopping by!** I’m always open to collaboration, networking, and new opportunities. Feel free to connect with me! 🚀
 
