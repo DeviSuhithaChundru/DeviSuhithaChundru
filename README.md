@@ -7,7 +7,7 @@ I'm **Devi Suhitha Chundru**
 
 ## 🌐 Connect with Me
 📫 Let’s connect! Feel free to explore my work and reach out.
-## 🚀 About Me
+## 💼 About Me
 I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engineering, and Cloud Services. My journey revolves around data-driven problem-solving, developing scalable data pipelines, and leveraging cloud technologies to optimize workflows.
 
 ## 📌 What I Do:
@@ -17,6 +17,10 @@ I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engi
 - Work with big data tools like Apache Spark and Databricks
 - Build interactive dashboards for reporting and business intelligence
 - Automate processes using CI/CD pipelines and cloud functions
+
+🔹 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/devisuhitha/)  
+🔹 **GitHub:** [Your GitHub Profile](https://github.com/DeviSuhithaChundru?tab=repositories)  
+🔹 **Portfolio:** [Your Portfolio](https://devisuhithachundru.github.io/devisuhithachundru.portfolio/)
 
 ## 🛠 Technical Skills
 ## 📊 Data Analytics & Visualization
@@ -33,6 +37,7 @@ I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engi
 
 ## 🛠 Tools & Technologies
 ✅ Git | Docker | Kubernetes | CI/CD Pipelines | Linux | REST APIs
+
 
 ## 📂 Projects
 ## 1️⃣ 📊 Retail Sales Analysis Dashboard
@@ -64,4 +69,11 @@ I am a **Data Enthusiast** with hands-on experience in Data Analytics, Data Engi
 - 💡 Sharing my knowledge on LinkedIn through blog posts and case studies
 
 **📝 Thanks for stopping by!** I’m always open to collaboration, networking, and new opportunities. Feel free to connect with me! 🚀
+
+## Links & Contact:
+**GitHub:** https://github.com/DeviSuhithaChundru?tab=repositories
+**Portfolio:** https://devisuhithachundru.github.io/devisuhithachundru.portfolio/
+**LinkedIn:** https://www.linkedin.com/in/devisuhitha/
+**Email:** cdevisuhitha@gmail.com
+**Phone:** 484-588-9904
 
